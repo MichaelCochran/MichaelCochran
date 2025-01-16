@@ -28,7 +28,7 @@ In addition to my full-time role, I am also developing a personal software proje
 	•	Teamwork and Collaboration: I have worked on diverse teams, from military squads to development teams, always learning and adapting to new environments.
 
 ## Personal Projects and Learning
-I am constantly seeking to improve my skills through self-study and online courses from platforms like Codecademy and DataCamp. I believe in lifelong learning and am currently applying to pursue a Master of Science in Software Engineering at the University of Alabama Huntsville and a Master of Science in Computer Science at Georgia Tech.
+I am constantly seeking to improve my skills through self-study and online courses from platforms like Codecademy and DataCamp. I believe in lifelong learning and am currently looking at which Masters program will best add to my skills and experience.
 
 ## Passion for Writing
 Recognizing the value of sharing knowledge, I have initiated "Write It Wednesdays," a personal commitment to blog about my learning experiences. These blog posts will document my journey through projects, courses, and readings, providing insights and takeaways for fellow developers.
