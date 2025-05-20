@@ -37,5 +37,5 @@ My career is driven by a desire to contribute to the defense sector, inspired by
 In my daily routine, I prioritize personal growth and balance, dedicating time to study and family responsibilities. These practices ground me and fuel my dedication to my professional and personal endeavors.
 
 ## Want to know more?
-Feel free to drop by my [website](www.codebymike.dev). There I share my blog mentioned above, I have a contact section where you can reach out to me, and I discuss some of the projects found here.
+Feel free to drop by my [website](http://www.codebymike.dev). There I share my blog mentioned above, I have a contact section where you can reach out to me, and I discuss some of the projects found here.
 
